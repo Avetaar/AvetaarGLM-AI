@@ -13,12 +13,12 @@
 
 Windows:
 ```
-git clone https://github.com/Avetaar/AvetaarGLM-AI.git && cd AvetaarGLM-AI && python -m venv venv && venv\Scripts\activate && pip install -r RIVAL_requirements.txt && python Avetaar.py
+git clone https://github.com/Avetaar/AvetaarGLM-AI.git && cd AvetaarGLM-AI && python -m venv venv && venv\Scripts\activate && pip install -r RIVAL_requirements.txt && python AvetaarGLM-Ai.py
 ```
 
 Linux / macOS:
 ```
-git clone https://github.com/Avetaar/AvetaarGLM-AI.git && cd AvetaarGLM-AI && python3 -m venv venv && source venv/bin/activate && pip install -r RIVAL_requirements.txt && python Avetaar.py
+git clone https://github.com/Avetaar/AvetaarGLM-AI.git && cd AvetaarGLM-AI && python3 -m venv venv && source venv/bin/activate && pip install -r RIVAL_requirements.txt && python AvetaarGLM-Ai.py
 ```
 
 ---
@@ -38,12 +38,12 @@ A single-file GLM AI client — no API keys, no accounts. Clone it and run it.
 
 Windows:
 ```
-git clone https://github.com/Avetaar/AvetaarGLM-AI.git && cd AvetaarGLM-AI && python -m venv venv && venv\Scripts\activate && pip install -r RIVAL_requirements.txt && python Avetaar.py
+git clone https://github.com/Avetaar/AvetaarGLM-AI.git && cd AvetaarGLM-AI && python -m venv venv && venv\Scripts\activate && pip install -r RIVAL_requirements.txt && python AvetaarGLM-Ai.py
 ```
 
 Linux / macOS:
 ```
-git clone https://github.com/Avetaar/AvetaarGLM-AI.git && cd AvetaarGLM-AI && python3 -m venv venv && source venv/bin/activate && pip install -r RIVAL_requirements.txt && python Avetaar.py
+git clone https://github.com/Avetaar/AvetaarGLM-AI.git && cd AvetaarGLM-AI && python3 -m venv venv && source venv/bin/activate && pip install -r RIVAL_requirements.txt && python AvetaarGLM-Ai.py
 ```
 
 ---
